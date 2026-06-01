@@ -59,6 +59,12 @@ The model was successfully trained and used to predict car prices based on input
 - Use advanced regression algorithms such as Random Forest Regressor and XGBoost.
 - Deploy the model using Flask or Streamlit.
 - Improve prediction accuracy through hyperparameter tuning.
+- ## Installation
+
+Install the required libraries using:
+
+```bash
+pip install -r requirements.txt
 
 ## Author
 Lasya Chennam
